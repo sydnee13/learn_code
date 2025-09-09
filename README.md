@@ -1,2 +1,2 @@
-# learn_sql
-This repository is for learning and practicing sql.
+# learn_code
+This repository is for learning and practicing my coding.
